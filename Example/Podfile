@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'ZhichiCustomerKit_Example' do
+  pod 'ZhichiCustomerKit', :path => '../'
+
+  target 'ZhichiCustomerKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
