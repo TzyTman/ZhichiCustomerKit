@@ -1,0 +1,16 @@
+PODS:
+  - ZhichiCustomerKit (0.1.0)
+
+DEPENDENCIES:
+  - ZhichiCustomerKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZhichiCustomerKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZhichiCustomerKit: 4bc0988bc8e850228356c6b64a340508d9624dec
+
+PODFILE CHECKSUM: 0ae1a76477d1d8c567708be7ac769f5a56634945
+
+COCOAPODS: 1.10.2

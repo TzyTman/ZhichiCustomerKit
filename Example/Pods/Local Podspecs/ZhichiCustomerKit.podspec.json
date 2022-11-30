@@ -1,0 +1,22 @@
+{
+  "name": "ZhichiCustomerKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZhichiCustomerKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tuzhengyao/ZhichiCustomerKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tuzhengyao": "905430956@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/tuzhengyao/ZhichiCustomerKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ZhichiCustomerKit/Classes/**/*"
+}

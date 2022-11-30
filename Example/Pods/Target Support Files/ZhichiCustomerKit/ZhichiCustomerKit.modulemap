@@ -1,0 +1,6 @@
+framework module ZhichiCustomerKit {
+  umbrella header "ZhichiCustomerKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -28,9 +28,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2FA88147AED698F027E6F831 /* ZhichiCustomerKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ZhichiCustomerKit.podspec; path = ../ZhichiCustomerKit.podspec; sourceTree = "<group>"; };
+		2FA88147AED698F027E6F831 /* ZhichiCustomerKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ZhichiCustomerKit.podspec; path = ../ZhichiCustomerKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		44D26E9DC0D14F6190AC3DCD /* Pods-ZhichiCustomerKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZhichiCustomerKit_Tests.debug.xcconfig"; path = "Target Support Files/Pods-ZhichiCustomerKit_Tests/Pods-ZhichiCustomerKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		49A9DCEA9F98DE525E38A3E8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		49A9DCEA9F98DE525E38A3E8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		523CE8630F7B61A9F43BBB1B /* Pods-ZhichiCustomerKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZhichiCustomerKit_Tests.release.xcconfig"; path = "Target Support Files/Pods-ZhichiCustomerKit_Tests/Pods-ZhichiCustomerKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* ZhichiCustomerKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZhichiCustomerKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -45,7 +45,7 @@
 		7DFB027FBDA3F73B0438CF26 /* Pods-ZhichiCustomerKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZhichiCustomerKit_Example.debug.xcconfig"; path = "Target Support Files/Pods-ZhichiCustomerKit_Example/Pods-ZhichiCustomerKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		BCFE9F658EA518D31B87351A /* Pods_ZhichiCustomerKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZhichiCustomerKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C142991352B5926DD7C84DBA /* Pods-ZhichiCustomerKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZhichiCustomerKit_Example.release.xcconfig"; path = "Target Support Files/Pods-ZhichiCustomerKit_Example/Pods-ZhichiCustomerKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		EE0C5069B693A833AD41F302 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		EE0C5069B693A833AD41F302 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		F7BBE7504DF3CD908F85E36A /* Pods_ZhichiCustomerKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZhichiCustomerKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -77,7 +77,6 @@
 				44D26E9DC0D14F6190AC3DCD /* Pods-ZhichiCustomerKit_Tests.debug.xcconfig */,
 				523CE8630F7B61A9F43BBB1B /* Pods-ZhichiCustomerKit_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
